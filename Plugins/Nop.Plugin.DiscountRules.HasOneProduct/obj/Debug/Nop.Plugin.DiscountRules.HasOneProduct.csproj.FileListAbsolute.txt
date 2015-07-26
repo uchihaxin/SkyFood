@@ -8,3 +8,4 @@ C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Discount
 C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
 C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
 C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csprojResolveAssemblyReference.cache

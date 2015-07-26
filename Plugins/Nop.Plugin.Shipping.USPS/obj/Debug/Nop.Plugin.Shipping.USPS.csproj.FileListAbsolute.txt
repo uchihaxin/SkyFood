@@ -7,3 +7,4 @@ C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Shipping
 C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
 C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
 C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache
