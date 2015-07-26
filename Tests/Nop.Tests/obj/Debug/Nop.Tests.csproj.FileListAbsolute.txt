@@ -1,0 +1,15 @@
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\mscorlib.dll
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\normidna.nlp
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\normnfc.nlp
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\normnfd.nlp
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\normnfkc.nlp
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\bin\Debug\normnfkd.nlp
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

@@ -1,0 +1,11 @@
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+C:\Users\xinzhou\Documents\GitHub\SkyFoods\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
