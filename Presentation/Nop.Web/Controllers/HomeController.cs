@@ -10,5 +10,10 @@ namespace Nop.Web.Controllers
         {
             return View();
         }
+
+        public ActionResult tet()
+        {
+            return View();
+        }
     }
 }
